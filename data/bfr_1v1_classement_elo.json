@@ -1,0 +1,751 @@
+[
+	{
+		"Classement": 1,
+		"Player": "Delta",
+		"ELO": 2007,
+		"Combats": 33,
+		"Kill ratio": 3.41
+	},
+	{
+		"Classement": 2,
+		"Player": "Charly",
+		"ELO": 1874,
+		"Combats": 34,
+		"Kill ratio": 1.69
+	},
+	{
+		"Classement": 3,
+		"Player": "Plaiskool",
+		"ELO": 1749,
+		"Combats": 30,
+		"Kill ratio": 2.33
+	},
+	{
+		"Classement": 4,
+		"Player": "Low Blow",
+		"ELO": 1667,
+		"Combats": 20,
+		"Kill ratio": 2.38
+	},
+	{
+		"Classement": 5,
+		"Player": "Nod",
+		"ELO": 1631,
+		"Combats": 12,
+		"Kill ratio": 5.25
+	},
+	{
+		"Classement": 6,
+		"Player": "Pogo",
+		"ELO": 1601,
+		"Combats": 26,
+		"Kill ratio": 1.27
+	},
+	{
+		"Classement": 7,
+		"Player": "Phil",
+		"ELO": 1511,
+		"Combats": 16,
+		"Kill ratio": 2.7
+	},
+	{
+		"Classement": 8,
+		"Player": "Sakia",
+		"ELO": 1510,
+		"Combats": 15,
+		"Kill ratio": 1.69
+	},
+	{
+		"Classement": 9,
+		"Player": "Crickett",
+		"ELO": 1440,
+		"Combats": 17,
+		"Kill ratio": 1.05
+	},
+	{
+		"Classement": 10,
+		"Player": "Arilouchi",
+		"ELO": 1413,
+		"Combats": 19,
+		"Kill ratio": 1.2
+	},
+	{
+		"Classement": 11,
+		"Player": "Marco",
+		"ELO": 1375,
+		"Combats": 14,
+		"Kill ratio": 1.07
+	},
+	{
+		"Classement": 12,
+		"Player": "Null",
+		"ELO": 1369,
+		"Combats": 8,
+		"Kill ratio": 4
+	},
+	{
+		"Classement": 13,
+		"Player": "Adrien",
+		"ELO": 1346,
+		"Combats": 16,
+		"Kill ratio": 0.85
+	},
+	{
+		"Classement": 14,
+		"Player": "ForTheQueen",
+		"ELO": 1302,
+		"Combats": 9,
+		"Kill ratio": 1.71
+	},
+	{
+		"Classement": 15,
+		"Player": "CoubyStark",
+		"ELO": 1296,
+		"Combats": 9,
+		"Kill ratio": 1.43
+	},
+	{
+		"Classement": 16,
+		"Player": "Dior",
+		"ELO": 1287,
+		"Combats": 22,
+		"Kill ratio": 0.83
+	},
+	{
+		"Classement": 17,
+		"Player": "Pyrho",
+		"ELO": 1242,
+		"Combats": 6,
+		"Kill ratio": 2.67
+	},
+	{
+		"Classement": 18,
+		"Player": "Stan",
+		"ELO": 1237,
+		"Combats": 10,
+		"Kill ratio": 0.8
+	},
+	{
+		"Classement": 19,
+		"Player": "Dup",
+		"ELO": 1220,
+		"Combats": 11,
+		"Kill ratio": 0.86
+	},
+	{
+		"Classement": 20,
+		"Player": "Moxie",
+		"ELO": 1214,
+		"Combats": 14,
+		"Kill ratio": 0.45
+	},
+	{
+		"Classement": 21,
+		"Player": "PilatusPilot",
+		"ELO": 1182,
+		"Combats": 6,
+		"Kill ratio": 2
+	},
+	{
+		"Classement": 22,
+		"Player": "Capt. Nemo",
+		"ELO": 1178,
+		"Combats": 5,
+		"Kill ratio": 2
+	},
+	{
+		"Classement": 23,
+		"Player": "Rixe",
+		"ELO": 1178,
+		"Combats": 5,
+		"Kill ratio": 2
+	},
+	{
+		"Classement": 24,
+		"Player": "Badjok",
+		"ELO": 1177,
+		"Combats": 5,
+		"Kill ratio": 2
+	},
+	{
+		"Classement": 25,
+		"Player": "Conwell",
+		"ELO": 1171,
+		"Combats": 7,
+		"Kill ratio": 1
+	},
+	{
+		"Classement": 26,
+		"Player": "Tom",
+		"ELO": 1159,
+		"Combats": 7,
+		"Kill ratio": 0.88
+	},
+	{
+		"Classement": 27,
+		"Player": "Krys",
+		"ELO": 1159,
+		"Combats": 7,
+		"Kill ratio": 0.75
+	},
+	{
+		"Classement": 28,
+		"Player": "A2fou",
+		"ELO": 1117,
+		"Combats": 5,
+		"Kill ratio": 1.25
+	},
+	{
+		"Classement": 29,
+		"Player": "OuiOui",
+		"ELO": 1117,
+		"Combats": 7,
+		"Kill ratio": 0.44
+	},
+	{
+		"Classement": 30,
+		"Player": "Snapeur",
+		"ELO": 1116,
+		"Combats": 7,
+		"Kill ratio": 0.44
+	},
+	{
+		"Classement": 31,
+		"Player": "Asta",
+		"ELO": 1115,
+		"Combats": 5,
+		"Kill ratio": 1.25
+	},
+	{
+		"Classement": 32,
+		"Player": "Bison",
+		"ELO": 1115,
+		"Combats": 6,
+		"Kill ratio": 0.57
+	},
+	{
+		"Classement": 33,
+		"Player": "Giat",
+		"ELO": 1115,
+		"Combats": 6,
+		"Kill ratio": 0.57
+	},
+	{
+		"Classement": 34,
+		"Player": "Ari",
+		"ELO": 1114,
+		"Combats": 4,
+		"Kill ratio": 1.67
+	},
+	{
+		"Classement": 35,
+		"Player": "Waves 1.1",
+		"ELO": 1109,
+		"Combats": 9,
+		"Kill ratio": 0.31
+	},
+	{
+		"Classement": 36,
+		"Player": "Mutz",
+		"ELO": 1109,
+		"Combats": 5,
+		"Kill ratio": 0.8
+	},
+	{
+		"Classement": 37,
+		"Player": "Coco",
+		"ELO": 1109,
+		"Combats": 5,
+		"Kill ratio": 1
+	},
+	{
+		"Classement": 38,
+		"Player": "Cookie",
+		"ELO": 1109,
+		"Combats": 5,
+		"Kill ratio": 1
+	},
+	{
+		"Classement": 39,
+		"Player": "Freeze",
+		"ELO": 1103,
+		"Combats": 8,
+		"Kill ratio": 0.45
+	},
+	{
+		"Classement": 40,
+		"Player": "Val",
+		"ELO": 1103,
+		"Combats": 7,
+		"Kill ratio": 0.67
+	},
+	{
+		"Classement": 41,
+		"Player": "Hasm",
+		"ELO": 1097,
+		"Combats": 8,
+		"Kill ratio": 0.55
+	},
+	{
+		"Classement": 42,
+		"Player": "Dikennek",
+		"ELO": 1066,
+		"Combats": 4,
+		"Kill ratio": 0.75
+	},
+	{
+		"Classement": 43,
+		"Player": "Minotor",
+		"ELO": 1066,
+		"Combats": 4,
+		"Kill ratio": 0.5
+	},
+	{
+		"Classement": 44,
+		"Player": "Towxin",
+		"ELO": 1066,
+		"Combats": 4,
+		"Kill ratio": 0.5
+	},
+	{
+		"Classement": 45,
+		"Player": "Mako",
+		"ELO": 1066,
+		"Combats": 4,
+		"Kill ratio": 0.75
+	},
+	{
+		"Classement": 46,
+		"Player": "Frost",
+		"ELO": 1066,
+		"Combats": 4,
+		"Kill ratio": 0.5
+	},
+	{
+		"Classement": 47,
+		"Player": "Galinette",
+		"ELO": 1066,
+		"Combats": 4,
+		"Kill ratio": 0.5
+	},
+	{
+		"Classement": 48,
+		"Player": "Vaurtex",
+		"ELO": 1065,
+		"Combats": 3,
+		"Kill ratio": 1
+	},
+	{
+		"Classement": 49,
+		"Player": "Alex",
+		"ELO": 1065,
+		"Combats": 3,
+		"Kill ratio": 1.5
+	},
+	{
+		"Classement": 50,
+		"Player": "LaChèvre",
+		"ELO": 1065,
+		"Combats": 3,
+		"Kill ratio": 1.5
+	},
+	{
+		"Classement": 51,
+		"Player": "Frostiz",
+		"ELO": 1065,
+		"Combats": 3,
+		"Kill ratio": 1
+	},
+	{
+		"Classement": 52,
+		"Player": "Suédois",
+		"ELO": 1065,
+		"Combats": 3,
+		"Kill ratio": 1
+	},
+	{
+		"Classement": 53,
+		"Player": "Leebibs",
+		"ELO": 1065,
+		"Combats": 3,
+		"Kill ratio": 1
+	},
+	{
+		"Classement": 54,
+		"Player": "ZEmouton",
+		"ELO": 1065,
+		"Combats": 3,
+		"Kill ratio": 1
+	},
+	{
+		"Classement": 55,
+		"Player": "A.M.X.",
+		"ELO": 1065,
+		"Combats": 3,
+		"Kill ratio": 1
+	},
+	{
+		"Classement": 56,
+		"Player": "Chacal",
+		"ELO": 1061,
+		"Combats": 8,
+		"Kill ratio": 0.25
+	},
+	{
+		"Classement": 57,
+		"Player": "Payano",
+		"ELO": 1060,
+		"Combats": 7,
+		"Kill ratio": 0.5
+	},
+	{
+		"Classement": 58,
+		"Player": "Nigh",
+		"ELO": 1059,
+		"Combats": 6,
+		"Kill ratio": 0.33
+	},
+	{
+		"Classement": 59,
+		"Player": "Dory",
+		"ELO": 1056,
+		"Combats": 3,
+		"Kill ratio": 0.67
+	},
+	{
+		"Classement": 60,
+		"Player": "Detox",
+		"ELO": 1056,
+		"Combats": 3,
+		"Kill ratio": 0.67
+	},
+	{
+		"Classement": 61,
+		"Player": "Bloodrift",
+		"ELO": 1006,
+		"Combats": 7,
+		"Kill ratio": 0.17
+	},
+	{
+		"Classement": 62,
+		"Player": "Alpha Juliet",
+		"ELO": 1003,
+		"Combats": 4,
+		"Kill ratio": 0.17
+	},
+	{
+		"Classement": 63,
+		"Player": "Exhaust",
+		"ELO": 1002,
+		"Combats": 3,
+		"Kill ratio": 0
+	},
+	{
+		"Classement": 64,
+		"Player": "Lenox",
+		"ELO": 1002,
+		"Combats": 3,
+		"Kill ratio": 0.25
+	},
+	{
+		"Classement": 65,
+		"Player": "DaKerboul",
+		"ELO": 1002,
+		"Combats": 3,
+		"Kill ratio": 0
+	},
+	{
+		"Classement": 66,
+		"Player": "Golgot",
+		"ELO": 1002,
+		"Combats": 3,
+		"Kill ratio": 0.25
+	},
+	{
+		"Classement": 67,
+		"Player": "Djangoo",
+		"ELO": 1002,
+		"Combats": 3,
+		"Kill ratio": 0.25
+	},
+	{
+		"Classement": 68,
+		"Player": "Jon_ky",
+		"ELO": 1002,
+		"Combats": 3,
+		"Kill ratio": 0
+	},
+	{
+		"Classement": 69,
+		"Player": "Raven9616",
+		"ELO": 1002,
+		"Combats": 3,
+		"Kill ratio": 0
+	},
+	{
+		"Classement": 70,
+		"Player": "CrizEo",
+		"ELO": 1001,
+		"Combats": 2,
+		"Kill ratio": 0
+	},
+	{
+		"Classement": 71,
+		"Player": "Dovahkiinz",
+		"ELO": 1001,
+		"Combats": 2,
+		"Kill ratio": 0
+	},
+	{
+		"Classement": 72,
+		"Player": "Snoozy",
+		"ELO": 1001,
+		"Combats": 2,
+		"Kill ratio": 0
+	},
+	{
+		"Classement": 73,
+		"Player": "Damien",
+		"ELO": 1001,
+		"Combats": 2,
+		"Kill ratio": 0.5
+	},
+	{
+		"Classement": 74,
+		"Player": "Pougatchev",
+		"ELO": 1001,
+		"Combats": 2,
+		"Kill ratio": 0
+	},
+	{
+		"Classement": 75,
+		"Player": "Kai",
+		"ELO": 1001,
+		"Combats": 2,
+		"Kill ratio": 0
+	},
+	{
+		"Classement": 76,
+		"Player": "Vic31",
+		"ELO": 1001,
+		"Combats": 2,
+		"Kill ratio": 0.5
+	},
+	{
+		"Classement": 77,
+		"Player": "Chaps",
+		"ELO": 1001,
+		"Combats": 2,
+		"Kill ratio": 0.5
+	},
+	{
+		"Classement": 78,
+		"Player": "Scrub",
+		"ELO": 1001,
+		"Combats": 2,
+		"Kill ratio": 0
+	},
+	{
+		"Classement": 79,
+		"Player": "Spad",
+		"ELO": 1001,
+		"Combats": 2,
+		"Kill ratio": 0
+	},
+	{
+		"Classement": 80,
+		"Player": "Fauckio",
+		"ELO": 1001,
+		"Combats": 2,
+		"Kill ratio": 0
+	},
+	{
+		"Classement": 81,
+		"Player": "Hammersle",
+		"ELO": 1001,
+		"Combats": 2,
+		"Kill ratio": 0
+	},
+	{
+		"Classement": 82,
+		"Player": "Toniau 64",
+		"ELO": 1001,
+		"Combats": 2,
+		"Kill ratio": 0
+	},
+	{
+		"Classement": 83,
+		"Player": "Kobal",
+		"ELO": 1001,
+		"Combats": 2,
+		"Kill ratio": 0
+	},
+	{
+		"Classement": 84,
+		"Player": "Shug Ninx",
+		"ELO": 1001,
+		"Combats": 2,
+		"Kill ratio": 0
+	},
+	{
+		"Classement": 85,
+		"Player": "Le Bibs",
+		"ELO": 1001,
+		"Combats": 2,
+		"Kill ratio": 0
+	},
+	{
+		"Classement": 86,
+		"Player": "Vodka",
+		"ELO": 1001,
+		"Combats": 2,
+		"Kill ratio": 0
+	},
+	{
+		"Classement": 87,
+		"Player": "Cypher22",
+		"ELO": 1001,
+		"Combats": 2,
+		"Kill ratio": 0
+	},
+	{
+		"Classement": 88,
+		"Player": "Mcorp",
+		"ELO": 1001,
+		"Combats": 2,
+		"Kill ratio": 0
+	},
+	{
+		"Classement": 89,
+		"Player": "Hadès",
+		"ELO": 1001,
+		"Combats": 2,
+		"Kill ratio": 0
+	},
+	{
+		"Classement": 90,
+		"Player": "Pixel",
+		"ELO": 1001,
+		"Combats": 2,
+		"Kill ratio": 0.5
+	},
+	{
+		"Classement": 91,
+		"Player": "Elias",
+		"ELO": 1001,
+		"Combats": 2,
+		"Kill ratio": 0
+	},
+	{
+		"Classement": 92,
+		"Player": "Furieux",
+		"ELO": 1001,
+		"Combats": 2,
+		"Kill ratio": 0
+	},
+	{
+		"Classement": 93,
+		"Player": "Frenchie",
+		"ELO": 1001,
+		"Combats": 2,
+		"Kill ratio": 0
+	},
+	{
+		"Classement": 94,
+		"Player": "NEKSS",
+		"ELO": 1001,
+		"Combats": 2,
+		"Kill ratio": 0
+	},
+	{
+		"Classement": 95,
+		"Player": "Malbak",
+		"ELO": 1001,
+		"Combats": 2,
+		"Kill ratio": 0
+	},
+	{
+		"Classement": 96,
+		"Player": "Gaia_Funny",
+		"ELO": 1001,
+		"Combats": 2,
+		"Kill ratio": 0.5
+	},
+	{
+		"Classement": 97,
+		"Player": "Raven",
+		"ELO": 1001,
+		"Combats": 2,
+		"Kill ratio": 0.5
+	},
+	{
+		"Classement": 98,
+		"Player": "Rictus",
+		"ELO": 1001,
+		"Combats": 2,
+		"Kill ratio": 0
+	},
+	{
+		"Classement": 99,
+		"Player": "Wildclaw",
+		"ELO": 1001,
+		"Combats": 2,
+		"Kill ratio": 0.5
+	},
+	{
+		"Classement": 100,
+		"Player": "Nexousse",
+		"ELO": 1001,
+		"Combats": 2,
+		"Kill ratio": 0
+	},
+	{
+		"Classement": 101,
+		"Player": "PoloMarco",
+		"ELO": 1001,
+		"Combats": 2,
+		"Kill ratio": 0
+	},
+	{
+		"Classement": 102,
+		"Player": "BananaMayo",
+		"ELO": 1001,
+		"Combats": 2,
+		"Kill ratio": 0.5
+	},
+	{
+		"Classement": 103,
+		"Player": "Tomy10",
+		"ELO": 1001,
+		"Combats": 2,
+		"Kill ratio": 0
+	},
+	{
+		"Classement": 104,
+		"Player": "Icrew",
+		"ELO": 1001,
+		"Combats": 2,
+		"Kill ratio": 0
+	},
+	{
+		"Classement": 105,
+		"Player": "Caernarvon II",
+		"ELO": 1001,
+		"Combats": 2,
+		"Kill ratio": 0
+	},
+	{
+		"Classement": 106,
+		"Player": "TheFrenchEagle",
+		"ELO": 1001,
+		"Combats": 2,
+		"Kill ratio": 0.5
+	},
+	{
+		"Classement": 107,
+		"Player": "Tuxsmouf",
+		"ELO": 1001,
+		"Combats": 2,
+		"Kill ratio": 0.5
+	}
+]
