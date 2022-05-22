@@ -28,7 +28,6 @@ Streams des tournois :
 - https://www.twitch.tv/thefrencheagle
 
 ## En travaux
-- exploitation de plus data (nombre de saisons jouées, de tournois joués...)
-- data supplémentaires de gun hit à partir des ACMIs lorsque disponibles
 - pages individuelles des pilotes comprenant leurs résultats dans les tournois lorsque finalistes, évolutions du ELO et classement
 - ajout des présentations et infos des pilotes
+- data supplémentaires de gun hit à partir des ACMIs lorsque disponibles
