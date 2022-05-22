@@ -3,6 +3,8 @@
 		"Classement": 1,
 		"Player": "Delta",
 		"ELO": 2007,
+		"Saisons": 2,
+		"Tournois": 9,
 		"Combats": 33,
 		"Kill ratio": 3.41
 	},
@@ -10,6 +12,8 @@
 		"Classement": 2,
 		"Player": "Charly",
 		"ELO": 1874,
+		"Saisons": 2,
+		"Tournois": 10,
 		"Combats": 34,
 		"Kill ratio": 1.69
 	},
@@ -17,6 +21,8 @@
 		"Classement": 3,
 		"Player": "Plaiskool",
 		"ELO": 1749,
+		"Saisons": 2,
+		"Tournois": 8,
 		"Combats": 30,
 		"Kill ratio": 2.33
 	},
@@ -24,6 +30,8 @@
 		"Classement": 4,
 		"Player": "Low Blow",
 		"ELO": 1667,
+		"Saisons": 1,
+		"Tournois": 4,
 		"Combats": 20,
 		"Kill ratio": 2.38
 	},
@@ -31,6 +39,8 @@
 		"Classement": 5,
 		"Player": "Nod",
 		"ELO": 1631,
+		"Saisons": 1,
+		"Tournois": 3,
 		"Combats": 12,
 		"Kill ratio": 5.25
 	},
@@ -38,6 +48,8 @@
 		"Classement": 6,
 		"Player": "Pogo",
 		"ELO": 1601,
+		"Saisons": 2,
+		"Tournois": 10,
 		"Combats": 26,
 		"Kill ratio": 1.27
 	},
@@ -45,6 +57,8 @@
 		"Classement": 7,
 		"Player": "Phil",
 		"ELO": 1511,
+		"Saisons": 2,
+		"Tournois": 5,
 		"Combats": 16,
 		"Kill ratio": 2.7
 	},
@@ -52,6 +66,8 @@
 		"Classement": 8,
 		"Player": "Sakia",
 		"ELO": 1510,
+		"Saisons": 1,
+		"Tournois": 4,
 		"Combats": 15,
 		"Kill ratio": 1.69
 	},
@@ -59,6 +75,8 @@
 		"Classement": 9,
 		"Player": "Crickett",
 		"ELO": 1440,
+		"Saisons": 1,
+		"Tournois": 6,
 		"Combats": 17,
 		"Kill ratio": 1.05
 	},
@@ -66,6 +84,8 @@
 		"Classement": 10,
 		"Player": "Arilouchi",
 		"ELO": 1413,
+		"Saisons": 2,
+		"Tournois": 7,
 		"Combats": 19,
 		"Kill ratio": 1.2
 	},
@@ -73,6 +93,8 @@
 		"Classement": 11,
 		"Player": "Marco",
 		"ELO": 1375,
+		"Saisons": 1,
+		"Tournois": 5,
 		"Combats": 14,
 		"Kill ratio": 1.07
 	},
@@ -80,6 +102,8 @@
 		"Classement": 12,
 		"Player": "Null",
 		"ELO": 1369,
+		"Saisons": 1,
+		"Tournois": 2,
 		"Combats": 8,
 		"Kill ratio": 4
 	},
@@ -87,6 +111,8 @@
 		"Classement": 13,
 		"Player": "Adrien",
 		"ELO": 1346,
+		"Saisons": 2,
+		"Tournois": 6,
 		"Combats": 16,
 		"Kill ratio": 0.85
 	},
@@ -94,6 +120,8 @@
 		"Classement": 14,
 		"Player": "ForTheQueen",
 		"ELO": 1302,
+		"Saisons": 2,
+		"Tournois": 3,
 		"Combats": 9,
 		"Kill ratio": 1.71
 	},
@@ -101,6 +129,8 @@
 		"Classement": 15,
 		"Player": "CoubyStark",
 		"ELO": 1296,
+		"Saisons": 1,
+		"Tournois": 3,
 		"Combats": 9,
 		"Kill ratio": 1.43
 	},
@@ -108,6 +138,8 @@
 		"Classement": 16,
 		"Player": "Dior",
 		"ELO": 1287,
+		"Saisons": 2,
+		"Tournois": 13,
 		"Combats": 22,
 		"Kill ratio": 0.83
 	},
@@ -115,6 +147,8 @@
 		"Classement": 17,
 		"Player": "Pyrho",
 		"ELO": 1242,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 6,
 		"Kill ratio": 2.67
 	},
@@ -122,6 +156,8 @@
 		"Classement": 18,
 		"Player": "Stan",
 		"ELO": 1237,
+		"Saisons": 2,
+		"Tournois": 5,
 		"Combats": 10,
 		"Kill ratio": 0.8
 	},
@@ -129,6 +165,8 @@
 		"Classement": 19,
 		"Player": "Dup",
 		"ELO": 1220,
+		"Saisons": 1,
+		"Tournois": 6,
 		"Combats": 11,
 		"Kill ratio": 0.86
 	},
@@ -136,6 +174,8 @@
 		"Classement": 20,
 		"Player": "Moxie",
 		"ELO": 1214,
+		"Saisons": 2,
+		"Tournois": 8,
 		"Combats": 14,
 		"Kill ratio": 0.45
 	},
@@ -143,6 +183,8 @@
 		"Classement": 21,
 		"Player": "PilatusPilot",
 		"ELO": 1182,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 6,
 		"Kill ratio": 2
 	},
@@ -150,6 +192,8 @@
 		"Classement": 22,
 		"Player": "Capt. Nemo",
 		"ELO": 1178,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 5,
 		"Kill ratio": 2
 	},
@@ -157,6 +201,8 @@
 		"Classement": 22,
 		"Player": "Rixe",
 		"ELO": 1178,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 5,
 		"Kill ratio": 2
 	},
@@ -164,6 +210,8 @@
 		"Classement": 24,
 		"Player": "Badjok",
 		"ELO": 1177,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 5,
 		"Kill ratio": 2
 	},
@@ -171,6 +219,8 @@
 		"Classement": 25,
 		"Player": "Conwell",
 		"ELO": 1171,
+		"Saisons": 1,
+		"Tournois": 3,
 		"Combats": 7,
 		"Kill ratio": 1
 	},
@@ -178,6 +228,8 @@
 		"Classement": 26,
 		"Player": "Tom",
 		"ELO": 1159,
+		"Saisons": 2,
+		"Tournois": 3,
 		"Combats": 7,
 		"Kill ratio": 0.88
 	},
@@ -185,6 +237,8 @@
 		"Classement": 26,
 		"Player": "Krys",
 		"ELO": 1159,
+		"Saisons": 1,
+		"Tournois": 3,
 		"Combats": 7,
 		"Kill ratio": 0.75
 	},
@@ -192,6 +246,8 @@
 		"Classement": 28,
 		"Player": "A2fou",
 		"ELO": 1117,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 5,
 		"Kill ratio": 1.25
 	},
@@ -199,6 +255,8 @@
 		"Classement": 28,
 		"Player": "OuiOui",
 		"ELO": 1117,
+		"Saisons": 1,
+		"Tournois": 4,
 		"Combats": 7,
 		"Kill ratio": 0.44
 	},
@@ -206,6 +264,8 @@
 		"Classement": 30,
 		"Player": "Snapeur",
 		"ELO": 1116,
+		"Saisons": 2,
+		"Tournois": 4,
 		"Combats": 7,
 		"Kill ratio": 0.44
 	},
@@ -213,6 +273,8 @@
 		"Classement": 31,
 		"Player": "Asta",
 		"ELO": 1115,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 5,
 		"Kill ratio": 1.25
 	},
@@ -220,6 +282,8 @@
 		"Classement": 31,
 		"Player": "Bison",
 		"ELO": 1115,
+		"Saisons": 1,
+		"Tournois": 3,
 		"Combats": 6,
 		"Kill ratio": 0.57
 	},
@@ -227,6 +291,8 @@
 		"Classement": 31,
 		"Player": "Giat",
 		"ELO": 1115,
+		"Saisons": 1,
+		"Tournois": 3,
 		"Combats": 6,
 		"Kill ratio": 0.57
 	},
@@ -234,6 +300,8 @@
 		"Classement": 34,
 		"Player": "Ari",
 		"ELO": 1114,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 4,
 		"Kill ratio": 1.67
 	},
@@ -241,6 +309,8 @@
 		"Classement": 35,
 		"Player": "Waves 1.1",
 		"ELO": 1109,
+		"Saisons": 1,
+		"Tournois": 5,
 		"Combats": 9,
 		"Kill ratio": 0.31
 	},
@@ -248,6 +318,8 @@
 		"Classement": 35,
 		"Player": "Mutz",
 		"ELO": 1109,
+		"Saisons": 1,
+		"Tournois": 2,
 		"Combats": 5,
 		"Kill ratio": 0.8
 	},
@@ -255,6 +327,8 @@
 		"Classement": 35,
 		"Player": "Coco",
 		"ELO": 1109,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 5,
 		"Kill ratio": 1
 	},
@@ -262,6 +336,8 @@
 		"Classement": 35,
 		"Player": "Cookie",
 		"ELO": 1109,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 5,
 		"Kill ratio": 1
 	},
@@ -269,6 +345,8 @@
 		"Classement": 39,
 		"Player": "Freeze",
 		"ELO": 1103,
+		"Saisons": 1,
+		"Tournois": 4,
 		"Combats": 8,
 		"Kill ratio": 0.45
 	},
@@ -276,6 +354,8 @@
 		"Classement": 39,
 		"Player": "Val",
 		"ELO": 1103,
+		"Saisons": 2,
+		"Tournois": 4,
 		"Combats": 7,
 		"Kill ratio": 0.67
 	},
@@ -283,6 +363,8 @@
 		"Classement": 41,
 		"Player": "Hasm",
 		"ELO": 1097,
+		"Saisons": 1,
+		"Tournois": 4,
 		"Combats": 8,
 		"Kill ratio": 0.55
 	},
@@ -290,6 +372,8 @@
 		"Classement": 42,
 		"Player": "Dikennek",
 		"ELO": 1066,
+		"Saisons": 1,
+		"Tournois": 2,
 		"Combats": 4,
 		"Kill ratio": 0.75
 	},
@@ -297,6 +381,8 @@
 		"Classement": 42,
 		"Player": "Minotor",
 		"ELO": 1066,
+		"Saisons": 1,
+		"Tournois": 2,
 		"Combats": 4,
 		"Kill ratio": 0.5
 	},
@@ -304,6 +390,8 @@
 		"Classement": 42,
 		"Player": "Towxin",
 		"ELO": 1066,
+		"Saisons": 1,
+		"Tournois": 2,
 		"Combats": 4,
 		"Kill ratio": 0.5
 	},
@@ -311,6 +399,8 @@
 		"Classement": 42,
 		"Player": "Mako",
 		"ELO": 1066,
+		"Saisons": 2,
+		"Tournois": 2,
 		"Combats": 4,
 		"Kill ratio": 0.75
 	},
@@ -318,6 +408,8 @@
 		"Classement": 42,
 		"Player": "Frost",
 		"ELO": 1066,
+		"Saisons": 1,
+		"Tournois": 2,
 		"Combats": 4,
 		"Kill ratio": 0.5
 	},
@@ -325,6 +417,8 @@
 		"Classement": 42,
 		"Player": "Galinette",
 		"ELO": 1066,
+		"Saisons": 1,
+		"Tournois": 2,
 		"Combats": 4,
 		"Kill ratio": 0.5
 	},
@@ -332,6 +426,8 @@
 		"Classement": 48,
 		"Player": "Vaurtex",
 		"ELO": 1065,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 3,
 		"Kill ratio": 1
 	},
@@ -339,6 +435,8 @@
 		"Classement": 48,
 		"Player": "Alex",
 		"ELO": 1065,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 3,
 		"Kill ratio": 1.5
 	},
@@ -346,6 +444,8 @@
 		"Classement": 48,
 		"Player": "LaChèvre",
 		"ELO": 1065,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 3,
 		"Kill ratio": 1.5
 	},
@@ -353,6 +453,8 @@
 		"Classement": 48,
 		"Player": "Frostiz",
 		"ELO": 1065,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 3,
 		"Kill ratio": 1
 	},
@@ -360,6 +462,8 @@
 		"Classement": 48,
 		"Player": "Suédois",
 		"ELO": 1065,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 3,
 		"Kill ratio": 1
 	},
@@ -367,6 +471,8 @@
 		"Classement": 48,
 		"Player": "Leebibs",
 		"ELO": 1065,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 3,
 		"Kill ratio": 1
 	},
@@ -374,6 +480,8 @@
 		"Classement": 48,
 		"Player": "ZEmouton",
 		"ELO": 1065,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 3,
 		"Kill ratio": 1
 	},
@@ -381,6 +489,8 @@
 		"Classement": 48,
 		"Player": "A.M.X.",
 		"ELO": 1065,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 3,
 		"Kill ratio": 1
 	},
@@ -388,6 +498,8 @@
 		"Classement": 56,
 		"Player": "Chacal",
 		"ELO": 1061,
+		"Saisons": 1,
+		"Tournois": 6,
 		"Combats": 8,
 		"Kill ratio": 0.25
 	},
@@ -395,6 +507,8 @@
 		"Classement": 57,
 		"Player": "Payano",
 		"ELO": 1060,
+		"Saisons": 2,
+		"Tournois": 5,
 		"Combats": 7,
 		"Kill ratio": 0.5
 	},
@@ -402,6 +516,8 @@
 		"Classement": 58,
 		"Player": "Nigh",
 		"ELO": 1059,
+		"Saisons": 2,
+		"Tournois": 4,
 		"Combats": 6,
 		"Kill ratio": 0.33
 	},
@@ -409,6 +525,8 @@
 		"Classement": 59,
 		"Player": "Dory",
 		"ELO": 1056,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 3,
 		"Kill ratio": 0.67
 	},
@@ -416,6 +534,8 @@
 		"Classement": 59,
 		"Player": "Detox",
 		"ELO": 1056,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 3,
 		"Kill ratio": 0.67
 	},
@@ -423,6 +543,8 @@
 		"Classement": 61,
 		"Player": "Bloodrift",
 		"ELO": 1006,
+		"Saisons": 2,
+		"Tournois": 6,
 		"Combats": 7,
 		"Kill ratio": 0.17
 	},
@@ -430,6 +552,8 @@
 		"Classement": 62,
 		"Player": "Alpha Juliet",
 		"ELO": 1003,
+		"Saisons": 1,
+		"Tournois": 3,
 		"Combats": 4,
 		"Kill ratio": 0.17
 	},
@@ -437,6 +561,8 @@
 		"Classement": 63,
 		"Player": "Exhaust",
 		"ELO": 1002,
+		"Saisons": 1,
+		"Tournois": 2,
 		"Combats": 3,
 		"Kill ratio": 0
 	},
@@ -444,6 +570,8 @@
 		"Classement": 63,
 		"Player": "Lenox",
 		"ELO": 1002,
+		"Saisons": 1,
+		"Tournois": 2,
 		"Combats": 3,
 		"Kill ratio": 0.25
 	},
@@ -451,6 +579,8 @@
 		"Classement": 63,
 		"Player": "DaKerboul",
 		"ELO": 1002,
+		"Saisons": 1,
+		"Tournois": 2,
 		"Combats": 3,
 		"Kill ratio": 0
 	},
@@ -458,6 +588,8 @@
 		"Classement": 63,
 		"Player": "Golgot",
 		"ELO": 1002,
+		"Saisons": 1,
+		"Tournois": 2,
 		"Combats": 3,
 		"Kill ratio": 0.25
 	},
@@ -465,6 +597,8 @@
 		"Classement": 63,
 		"Player": "Djangoo",
 		"ELO": 1002,
+		"Saisons": 1,
+		"Tournois": 2,
 		"Combats": 3,
 		"Kill ratio": 0.25
 	},
@@ -472,6 +606,8 @@
 		"Classement": 63,
 		"Player": "Jon_ky",
 		"ELO": 1002,
+		"Saisons": 1,
+		"Tournois": 2,
 		"Combats": 3,
 		"Kill ratio": 0
 	},
@@ -479,6 +615,8 @@
 		"Classement": 63,
 		"Player": "Raven9616",
 		"ELO": 1002,
+		"Saisons": 1,
+		"Tournois": 2,
 		"Combats": 3,
 		"Kill ratio": 0
 	},
@@ -486,6 +624,8 @@
 		"Classement": 70,
 		"Player": "CrizEo",
 		"ELO": 1001,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 2,
 		"Kill ratio": 0
 	},
@@ -493,6 +633,8 @@
 		"Classement": 70,
 		"Player": "Dovahkiinz",
 		"ELO": 1001,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 2,
 		"Kill ratio": 0
 	},
@@ -500,6 +642,8 @@
 		"Classement": 70,
 		"Player": "Snoozy",
 		"ELO": 1001,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 2,
 		"Kill ratio": 0
 	},
@@ -507,6 +651,8 @@
 		"Classement": 70,
 		"Player": "Damien",
 		"ELO": 1001,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 2,
 		"Kill ratio": 0.5
 	},
@@ -514,6 +660,8 @@
 		"Classement": 70,
 		"Player": "Pougatchev",
 		"ELO": 1001,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 2,
 		"Kill ratio": 0
 	},
@@ -521,6 +669,8 @@
 		"Classement": 70,
 		"Player": "Kai",
 		"ELO": 1001,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 2,
 		"Kill ratio": 0
 	},
@@ -528,6 +678,8 @@
 		"Classement": 70,
 		"Player": "Vic31",
 		"ELO": 1001,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 2,
 		"Kill ratio": 0.5
 	},
@@ -535,6 +687,8 @@
 		"Classement": 70,
 		"Player": "Chaps",
 		"ELO": 1001,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 2,
 		"Kill ratio": 0.5
 	},
@@ -542,6 +696,8 @@
 		"Classement": 70,
 		"Player": "Scrub",
 		"ELO": 1001,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 2,
 		"Kill ratio": 0
 	},
@@ -549,6 +705,8 @@
 		"Classement": 70,
 		"Player": "Spad",
 		"ELO": 1001,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 2,
 		"Kill ratio": 0
 	},
@@ -556,6 +714,8 @@
 		"Classement": 70,
 		"Player": "Fauckio",
 		"ELO": 1001,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 2,
 		"Kill ratio": 0
 	},
@@ -563,6 +723,8 @@
 		"Classement": 70,
 		"Player": "Hammersle",
 		"ELO": 1001,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 2,
 		"Kill ratio": 0
 	},
@@ -570,6 +732,8 @@
 		"Classement": 70,
 		"Player": "Toniau 64",
 		"ELO": 1001,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 2,
 		"Kill ratio": 0
 	},
@@ -577,6 +741,8 @@
 		"Classement": 70,
 		"Player": "Kobal",
 		"ELO": 1001,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 2,
 		"Kill ratio": 0
 	},
@@ -584,6 +750,8 @@
 		"Classement": 70,
 		"Player": "Shug Ninx",
 		"ELO": 1001,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 2,
 		"Kill ratio": 0
 	},
@@ -591,6 +759,8 @@
 		"Classement": 70,
 		"Player": "Le Bibs",
 		"ELO": 1001,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 2,
 		"Kill ratio": 0
 	},
@@ -598,6 +768,8 @@
 		"Classement": 70,
 		"Player": "Vodka",
 		"ELO": 1001,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 2,
 		"Kill ratio": 0
 	},
@@ -605,6 +777,8 @@
 		"Classement": 70,
 		"Player": "Cypher22",
 		"ELO": 1001,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 2,
 		"Kill ratio": 0
 	},
@@ -612,6 +786,8 @@
 		"Classement": 70,
 		"Player": "Mcorp",
 		"ELO": 1001,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 2,
 		"Kill ratio": 0
 	},
@@ -619,6 +795,8 @@
 		"Classement": 70,
 		"Player": "Hadès",
 		"ELO": 1001,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 2,
 		"Kill ratio": 0
 	},
@@ -626,6 +804,8 @@
 		"Classement": 70,
 		"Player": "Pixel",
 		"ELO": 1001,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 2,
 		"Kill ratio": 0.5
 	},
@@ -633,6 +813,8 @@
 		"Classement": 70,
 		"Player": "Elias",
 		"ELO": 1001,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 2,
 		"Kill ratio": 0
 	},
@@ -640,6 +822,8 @@
 		"Classement": 70,
 		"Player": "Furieux",
 		"ELO": 1001,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 2,
 		"Kill ratio": 0
 	},
@@ -647,6 +831,8 @@
 		"Classement": 70,
 		"Player": "Frenchie",
 		"ELO": 1001,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 2,
 		"Kill ratio": 0
 	},
@@ -654,6 +840,8 @@
 		"Classement": 70,
 		"Player": "NEKSS",
 		"ELO": 1001,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 2,
 		"Kill ratio": 0
 	},
@@ -661,6 +849,8 @@
 		"Classement": 70,
 		"Player": "Malbak",
 		"ELO": 1001,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 2,
 		"Kill ratio": 0
 	},
@@ -668,6 +858,8 @@
 		"Classement": 70,
 		"Player": "Gaia_Funny",
 		"ELO": 1001,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 2,
 		"Kill ratio": 0.5
 	},
@@ -675,6 +867,8 @@
 		"Classement": 70,
 		"Player": "Raven",
 		"ELO": 1001,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 2,
 		"Kill ratio": 0.5
 	},
@@ -682,6 +876,8 @@
 		"Classement": 70,
 		"Player": "Rictus",
 		"ELO": 1001,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 2,
 		"Kill ratio": 0
 	},
@@ -689,6 +885,8 @@
 		"Classement": 70,
 		"Player": "Wildclaw",
 		"ELO": 1001,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 2,
 		"Kill ratio": 0.5
 	},
@@ -696,6 +894,8 @@
 		"Classement": 70,
 		"Player": "Nexousse",
 		"ELO": 1001,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 2,
 		"Kill ratio": 0
 	},
@@ -703,6 +903,8 @@
 		"Classement": 70,
 		"Player": "PoloMarco",
 		"ELO": 1001,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 2,
 		"Kill ratio": 0
 	},
@@ -710,6 +912,8 @@
 		"Classement": 70,
 		"Player": "BananaMayo",
 		"ELO": 1001,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 2,
 		"Kill ratio": 0.5
 	},
@@ -717,6 +921,8 @@
 		"Classement": 70,
 		"Player": "Tomy10",
 		"ELO": 1001,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 2,
 		"Kill ratio": 0
 	},
@@ -724,6 +930,8 @@
 		"Classement": 70,
 		"Player": "Icrew",
 		"ELO": 1001,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 2,
 		"Kill ratio": 0
 	},
@@ -731,6 +939,8 @@
 		"Classement": 70,
 		"Player": "Caernarvon II",
 		"ELO": 1001,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 2,
 		"Kill ratio": 0
 	},
@@ -738,6 +948,8 @@
 		"Classement": 70,
 		"Player": "TheFrenchEagle",
 		"ELO": 1001,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 2,
 		"Kill ratio": 0.5
 	},
@@ -745,6 +957,8 @@
 		"Classement": 70,
 		"Player": "Tuxsmouf",
 		"ELO": 1001,
+		"Saisons": 1,
+		"Tournois": 1,
 		"Combats": 2,
 		"Kill ratio": 0.5
 	}
