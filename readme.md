@@ -3,7 +3,9 @@ Classement des pilotes des tournois Dogfight BFR.
 
 ## Etablissement du classement
 Classement établi sur une base de calcul ELO, proposée par CoubyStark.
+
 Principe du classement ELO : [Wikipédia - Classement ELO](https://fr.wikipedia.org/wiki/Classement_Elo)
+
 Eléments de calcul retenus :
 - K = 60 jusqu’au 10ème match du joueur,
 - K = 20 pour un classement Elo en dessous de 2 400 Elo,
@@ -13,11 +15,14 @@ Eléments de calcul retenus :
 
 ## Données brutes
 Elles se trouvent dans le fichier **data\bfr_1v1_raw_data.csv**.
+
 En cas d'erreur, ne pas hésiter à ouvrir un ticket.
 
 ## Infos sur le tournoi
 Site organisant les tournois : https://bullseye-francophone.fr
+
 Discord BFR : https://discord.gg/8mpyQxPaZf
+
 Streams des tournois :
 - https://www.twitch.tv/0cage0
 - https://www.twitch.tv/thefrencheagle
