@@ -2149,17 +2149,15 @@
 	{
 		"Player": "Kai",
 		"ELO": [
-			1002,
 			1001,
 			1000
 		],
 		"Kills": 0,
-		"Morts": 4,
+		"Morts": 2,
 		"Saisons": [
 			"21-22"
 		],
 		"Tournois": [
-			"20220527",
 			"20220327"
 		]
 	},
@@ -2292,22 +2290,6 @@
 		]
 	},
 	{
-		"Player": "Nikko",
-		"ELO": [
-			1065,
-			1064,
-			1000
-		],
-		"Kills": 2,
-		"Morts": 2,
-		"Saisons": [
-			"21-22"
-		],
-		"Tournois": [
-			"20220527"
-		]
-	},
-	{
 		"Player": "Nezdoug",
 		"ELO": [
 			1118,
@@ -2327,6 +2309,21 @@
 	},
 	{
 		"Player": "Nopex",
+		"ELO": [
+			1001,
+			1000
+		],
+		"Kills": 0,
+		"Morts": 2,
+		"Saisons": [
+			"21-22"
+		],
+		"Tournois": [
+			"20220527"
+		]
+	},
+	{
+		"Player": "Nikko",
 		"ELO": [
 			1001,
 			1000
