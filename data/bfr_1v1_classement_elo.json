@@ -1,35 +1,35 @@
 [
 	{
 		"Classement": 1,
+		"Player": "Nol",
+		"ELO": 1308,
+		"Saisons": 3,
+		"Tournois": 6,
+		"Combats": 20,
+		"Kill ratio": 3.09
+	},
+	{
+		"Classement": 2,
 		"Player": "Delta",
-		"ELO": 2036,
+		"ELO": 1303,
 		"Saisons": 3,
 		"Tournois": 11,
 		"Combats": 35,
 		"Kill ratio": 2.86
 	},
 	{
-		"Classement": 2,
-		"Player": "Charly",
-		"ELO": 1947,
-		"Saisons": 3,
-		"Tournois": 11,
-		"Combats": 37,
-		"Kill ratio": 1.77
-	},
-	{
 		"Classement": 3,
-		"Player": "Plaiskool",
-		"ELO": 1812,
-		"Saisons": 2,
-		"Tournois": 9,
-		"Combats": 33,
-		"Kill ratio": 2.12
+		"Player": "Phil",
+		"ELO": 1287,
+		"Saisons": 3,
+		"Tournois": 6,
+		"Combats": 20,
+		"Kill ratio": 2.77
 	},
 	{
 		"Classement": 4,
 		"Player": "Nod",
-		"ELO": 1721,
+		"ELO": 1276,
 		"Saisons": 1,
 		"Tournois": 5,
 		"Combats": 18,
@@ -37,44 +37,44 @@
 	},
 	{
 		"Classement": 5,
-		"Player": "Nol",
-		"ELO": 1705,
-		"Saisons": 3,
-		"Tournois": 6,
-		"Combats": 20,
-		"Kill ratio": 3.09
+		"Player": "Plaiskool",
+		"ELO": 1247,
+		"Saisons": 2,
+		"Tournois": 9,
+		"Combats": 33,
+		"Kill ratio": 2.12
 	},
 	{
 		"Classement": 6,
-		"Player": "pogo",
-		"ELO": 1692,
-		"Saisons": 4,
-		"Tournois": 12,
-		"Combats": 32,
-		"Kill ratio": 1.27
-	},
-	{
-		"Classement": 7,
 		"Player": "Low Blow",
-		"ELO": 1667,
+		"ELO": 1239,
 		"Saisons": 1,
 		"Tournois": 4,
 		"Combats": 19,
 		"Kill ratio": 2.38
 	},
 	{
-		"Classement": 8,
-		"Player": "Phil",
-		"ELO": 1602,
+		"Classement": 7,
+		"Player": "Charly",
+		"ELO": 1219,
 		"Saisons": 3,
-		"Tournois": 6,
-		"Combats": 20,
-		"Kill ratio": 2.77
+		"Tournois": 11,
+		"Combats": 37,
+		"Kill ratio": 1.77
+	},
+	{
+		"Classement": 8,
+		"Player": "Dikennek",
+		"ELO": 1190,
+		"Saisons": 1,
+		"Tournois": 3,
+		"Combats": 8,
+		"Kill ratio": 1.86
 	},
 	{
 		"Classement": 9,
 		"Player": "Sakia",
-		"ELO": 1510,
+		"ELO": 1175,
 		"Saisons": 1,
 		"Tournois": 4,
 		"Combats": 14,
@@ -82,332 +82,314 @@
 	},
 	{
 		"Classement": 10,
-		"Player": "Crickett",
-		"ELO": 1440,
-		"Saisons": 1,
-		"Tournois": 6,
-		"Combats": 16,
-		"Kill ratio": 1.05
-	},
-	{
-		"Classement": 11,
-		"Player": "Arilouchi",
-		"ELO": 1413,
-		"Saisons": 2,
-		"Tournois": 7,
-		"Combats": 18,
-		"Kill ratio": 1.2
-	},
-	{
-		"Classement": 12,
-		"Player": "Adrien",
-		"ELO": 1394,
-		"Saisons": 2,
-		"Tournois": 8,
-		"Combats": 21,
-		"Kill ratio": 0.83
-	},
-	{
-		"Classement": 12,
 		"Player": "Marco",
-		"ELO": 1394,
+		"ELO": 1155,
 		"Saisons": 2,
 		"Tournois": 6,
 		"Combats": 15,
 		"Kill ratio": 1.06
 	},
 	{
-		"Classement": 14,
-		"Player": "Dior",
-		"ELO": 1341,
+		"Classement": 11,
+		"Player": "pogo",
+		"ELO": 1150,
 		"Saisons": 4,
-		"Tournois": 16,
-		"Combats": 27,
-		"Kill ratio": 0.92
+		"Tournois": 12,
+		"Combats": 32,
+		"Kill ratio": 1.27
+	},
+	{
+		"Classement": 12,
+		"Player": "Arilouchi",
+		"ELO": 1148,
+		"Saisons": 2,
+		"Tournois": 7,
+		"Combats": 18,
+		"Kill ratio": 1.2
+	},
+	{
+		"Classement": 13,
+		"Player": "Viper",
+		"ELO": 1145,
+		"Saisons": 1,
+		"Tournois": 1,
+		"Combats": 4,
+		"Kill ratio": 2
+	},
+	{
+		"Classement": 14,
+		"Player": "Adrien",
+		"ELO": 1144,
+		"Saisons": 2,
+		"Tournois": 8,
+		"Combats": 21,
+		"Kill ratio": 0.83
 	},
 	{
 		"Classement": 15,
-		"Player": "Dikennek",
-		"ELO": 1305,
-		"Saisons": 1,
-		"Tournois": 3,
-		"Combats": 8,
-		"Kill ratio": 1.86
-	},
-	{
-		"Classement": 16,
-		"Player": "ForTheQueen",
-		"ELO": 1302,
-		"Saisons": 2,
-		"Tournois": 3,
-		"Combats": 8,
-		"Kill ratio": 1.71
-	},
-	{
-		"Classement": 17,
-		"Player": "CoubyStark",
-		"ELO": 1298,
-		"Saisons": 3,
-		"Tournois": 7,
-		"Combats": 14,
-		"Kill ratio": 0.89
-	},
-	{
-		"Classement": 18,
 		"Player": "Giat",
-		"ELO": 1284,
+		"ELO": 1141,
 		"Saisons": 1,
 		"Tournois": 4,
 		"Combats": 9,
 		"Kill ratio": 0.91
 	},
 	{
-		"Classement": 19,
-		"Player": "Asta",
-		"ELO": 1281,
-		"Saisons": 3,
-		"Tournois": 3,
-		"Combats": 10,
-		"Kill ratio": 1.18
+		"Classement": 16,
+		"Player": "Crickett",
+		"ELO": 1129,
+		"Saisons": 1,
+		"Tournois": 6,
+		"Combats": 16,
+		"Kill ratio": 1.05
 	},
 	{
-		"Classement": 20,
+		"Classement": 17,
 		"Player": "Pyrho",
-		"ELO": 1242,
+		"ELO": 1128,
 		"Saisons": 1,
 		"Tournois": 1,
 		"Combats": 5,
 		"Kill ratio": 2.67
 	},
 	{
-		"Classement": 21,
-		"Player": "Stan",
-		"ELO": 1237,
-		"Saisons": 2,
-		"Tournois": 5,
-		"Combats": 9,
-		"Kill ratio": 0.8
+		"Classement": 18,
+		"Player": "Asta",
+		"ELO": 1125,
+		"Saisons": 3,
+		"Tournois": 3,
+		"Combats": 10,
+		"Kill ratio": 1.18
 	},
 	{
-		"Classement": 22,
-		"Player": "Dup",
-		"ELO": 1236,
-		"Saisons": 2,
-		"Tournois": 7,
-		"Combats": 12,
-		"Kill ratio": 0.82
-	},
-	{
-		"Classement": 23,
-		"Player": "Badjok",
-		"ELO": 1222,
-		"Saisons": 1,
-		"Tournois": 2,
-		"Combats": 7,
-		"Kill ratio": 1
-	},
-	{
-		"Classement": 24,
-		"Player": "Viper",
-		"ELO": 1220,
-		"Saisons": 1,
-		"Tournois": 1,
-		"Combats": 4,
-		"Kill ratio": 2
-	},
-	{
-		"Classement": 25,
-		"Player": "Moxie",
-		"ELO": 1214,
-		"Saisons": 2,
-		"Tournois": 8,
-		"Combats": 13,
-		"Kill ratio": 0.45
-	},
-	{
-		"Classement": 26,
+		"Classement": 19,
 		"Player": "Hasm",
-		"ELO": 1207,
+		"ELO": 1121,
 		"Saisons": 2,
 		"Tournois": 6,
 		"Combats": 11,
 		"Kill ratio": 0.69
 	},
 	{
-		"Classement": 27,
-		"Player": "PilatusPilot",
-		"ELO": 1182,
+		"Classement": 20,
+		"Player": "Rixe",
+		"ELO": 1098,
 		"Saisons": 1,
 		"Tournois": 1,
-		"Combats": 5,
+		"Combats": 4,
 		"Kill ratio": 2
 	},
 	{
-		"Classement": 28,
+		"Classement": 21,
 		"Player": "CrizEo",
-		"ELO": 1181,
+		"ELO": 1096,
 		"Saisons": 3,
 		"Tournois": 4,
 		"Combats": 8,
 		"Kill ratio": 0.82
 	},
 	{
-		"Classement": 29,
-		"Player": "Dory",
-		"ELO": 1179,
-		"Saisons": 2,
-		"Tournois": 2,
-		"Combats": 5,
-		"Kill ratio": 1.2
-	},
-	{
-		"Classement": 30,
-		"Player": "Capt. Nemo",
-		"ELO": 1178,
-		"Saisons": 1,
-		"Tournois": 1,
-		"Combats": 4,
-		"Kill ratio": 2
-	},
-	{
-		"Classement": 30,
-		"Player": "Rixe",
-		"ELO": 1178,
-		"Saisons": 1,
-		"Tournois": 1,
-		"Combats": 4,
-		"Kill ratio": 2
-	},
-	{
-		"Classement": 32,
-		"Player": "Conwell",
-		"ELO": 1171,
-		"Saisons": 1,
-		"Tournois": 3,
-		"Combats": 6,
-		"Kill ratio": 1
-	},
-	{
-		"Classement": 33,
-		"Player": "Waves 1.1",
-		"ELO": 1159,
-		"Saisons": 2,
-		"Tournois": 6,
-		"Combats": 10,
-		"Kill ratio": 0.38
-	},
-	{
-		"Classement": 33,
-		"Player": "Tom",
-		"ELO": 1159,
-		"Saisons": 2,
-		"Tournois": 3,
-		"Combats": 6,
-		"Kill ratio": 0.88
-	},
-	{
-		"Classement": 33,
+		"Classement": 22,
 		"Player": "Krys",
-		"ELO": 1159,
+		"ELO": 1095,
 		"Saisons": 1,
 		"Tournois": 3,
 		"Combats": 6,
 		"Kill ratio": 0.75
 	},
 	{
-		"Classement": 36,
-		"Player": "Nezdoug",
-		"ELO": 1118,
-		"Saisons": 1,
-		"Tournois": 1,
-		"Combats": 4,
-		"Kill ratio": 1.25
+		"Classement": 23,
+		"Player": "CoubyStark",
+		"ELO": 1094,
+		"Saisons": 3,
+		"Tournois": 7,
+		"Combats": 14,
+		"Kill ratio": 0.89
 	},
 	{
-		"Classement": 37,
-		"Player": "A2fou",
-		"ELO": 1117,
-		"Saisons": 1,
-		"Tournois": 1,
-		"Combats": 4,
-		"Kill ratio": 1.25
-	},
-	{
-		"Classement": 37,
-		"Player": "OuiOui",
-		"ELO": 1117,
-		"Saisons": 1,
-		"Tournois": 4,
-		"Combats": 6,
-		"Kill ratio": 0.44
-	},
-	{
-		"Classement": 39,
-		"Player": "Snapeur",
-		"ELO": 1116,
+		"Classement": 23,
+		"Player": "Dup",
+		"ELO": 1094,
 		"Saisons": 2,
-		"Tournois": 4,
-		"Combats": 6,
-		"Kill ratio": 0.44
+		"Tournois": 7,
+		"Combats": 12,
+		"Kill ratio": 0.82
 	},
 	{
-		"Classement": 40,
-		"Player": "Ari",
-		"ELO": 1114,
-		"Saisons": 1,
-		"Tournois": 1,
-		"Combats": 3,
-		"Kill ratio": 1.67
+		"Classement": 25,
+		"Player": "Dior",
+		"ELO": 1092,
+		"Saisons": 4,
+		"Tournois": 16,
+		"Combats": 27,
+		"Kill ratio": 0.92
 	},
 	{
-		"Classement": 41,
-		"Player": "Bison",
-		"ELO": 1110,
-		"Saisons": 1,
-		"Tournois": 4,
-		"Combats": 6,
-		"Kill ratio": 0.44
+		"Classement": 26,
+		"Player": "ForTheQueen",
+		"ELO": 1091,
+		"Saisons": 2,
+		"Tournois": 3,
+		"Combats": 8,
+		"Kill ratio": 1.71
 	},
 	{
-		"Classement": 42,
-		"Player": "Mutz",
-		"ELO": 1109,
+		"Classement": 27,
+		"Player": "Badjok",
+		"ELO": 1090,
 		"Saisons": 1,
 		"Tournois": 2,
-		"Combats": 4,
-		"Kill ratio": 0.8
-	},
-	{
-		"Classement": 42,
-		"Player": "Cookie",
-		"ELO": 1109,
-		"Saisons": 1,
-		"Tournois": 1,
-		"Combats": 4,
+		"Combats": 7,
 		"Kill ratio": 1
 	},
 	{
-		"Classement": 44,
-		"Player": "Darkblue56",
-		"ELO": 1106,
-		"Saisons": 1,
-		"Tournois": 1,
-		"Combats": 4,
+		"Classement": 28,
+		"Player": "Stan",
+		"ELO": 1088,
+		"Saisons": 2,
+		"Tournois": 5,
+		"Combats": 9,
 		"Kill ratio": 0.8
 	},
 	{
-		"Classement": 45,
+		"Classement": 29,
+		"Player": "PilatusPilot",
+		"ELO": 1087,
+		"Saisons": 1,
+		"Tournois": 1,
+		"Combats": 5,
+		"Kill ratio": 2
+	},
+	{
+		"Classement": 30,
+		"Player": "Bison",
+		"ELO": 1085,
+		"Saisons": 1,
+		"Tournois": 4,
+		"Combats": 6,
+		"Kill ratio": 0.44
+	},
+	{
+		"Classement": 30,
+		"Player": "Moxie",
+		"ELO": 1085,
+		"Saisons": 2,
+		"Tournois": 8,
+		"Combats": 13,
+		"Kill ratio": 0.45
+	},
+	{
+		"Classement": 32,
 		"Player": "Coco",
-		"ELO": 1103,
+		"ELO": 1083,
 		"Saisons": 2,
 		"Tournois": 2,
 		"Combats": 5,
 		"Kill ratio": 0.71
 	},
 	{
-		"Classement": 45,
+		"Classement": 33,
+		"Player": "Waves 1.1",
+		"ELO": 1081,
+		"Saisons": 2,
+		"Tournois": 6,
+		"Combats": 10,
+		"Kill ratio": 0.38
+	},
+	{
+		"Classement": 34,
+		"Player": "Conwell",
+		"ELO": 1078,
+		"Saisons": 1,
+		"Tournois": 3,
+		"Combats": 6,
+		"Kill ratio": 1
+	},
+	{
+		"Classement": 35,
+		"Player": "Darkblue56",
+		"ELO": 1077,
+		"Saisons": 1,
+		"Tournois": 1,
+		"Combats": 4,
+		"Kill ratio": 0.8
+	},
+	{
+		"Classement": 36,
+		"Player": "Nezdoug",
+		"ELO": 1076,
+		"Saisons": 1,
+		"Tournois": 1,
+		"Combats": 4,
+		"Kill ratio": 1.25
+	},
+	{
+		"Classement": 37,
+		"Player": "Capt. Nemo",
+		"ELO": 1075,
+		"Saisons": 1,
+		"Tournois": 1,
+		"Combats": 4,
+		"Kill ratio": 2
+	},
+	{
+		"Classement": 38,
+		"Player": "A2fou",
+		"ELO": 1073,
+		"Saisons": 1,
+		"Tournois": 1,
+		"Combats": 4,
+		"Kill ratio": 1.25
+	},
+	{
+		"Classement": 39,
+		"Player": "Val",
+		"ELO": 1070,
+		"Saisons": 2,
+		"Tournois": 4,
+		"Combats": 6,
+		"Kill ratio": 0.67
+	},
+	{
+		"Classement": 40,
+		"Player": "Ari",
+		"ELO": 1069,
+		"Saisons": 1,
+		"Tournois": 1,
+		"Combats": 3,
+		"Kill ratio": 1.67
+	},
+	{
+		"Classement": 40,
+		"Player": "OuiOui",
+		"ELO": 1069,
+		"Saisons": 1,
+		"Tournois": 4,
+		"Combats": 6,
+		"Kill ratio": 0.44
+	},
+	{
+		"Classement": 42,
+		"Player": "Dory",
+		"ELO": 1068,
+		"Saisons": 2,
+		"Tournois": 2,
+		"Combats": 5,
+		"Kill ratio": 1.2
+	},
+	{
+		"Classement": 43,
+		"Player": "Snapeur",
+		"ELO": 1066,
+		"Saisons": 2,
+		"Tournois": 4,
+		"Combats": 6,
+		"Kill ratio": 0.44
+	},
+	{
+		"Classement": 44,
 		"Player": "Freeze",
-		"ELO": 1103,
+		"ELO": 1065,
 		"Saisons": 1,
 		"Tournois": 4,
 		"Combats": 7,
@@ -415,170 +397,188 @@
 	},
 	{
 		"Classement": 45,
-		"Player": "Val",
-		"ELO": 1103,
-		"Saisons": 2,
-		"Tournois": 4,
-		"Combats": 6,
-		"Kill ratio": 0.67
-	},
-	{
-		"Classement": 48,
-		"Player": "Mako",
-		"ELO": 1067,
-		"Saisons": 3,
-		"Tournois": 3,
+		"Player": "Mutz",
+		"ELO": 1064,
+		"Saisons": 1,
+		"Tournois": 2,
 		"Combats": 4,
-		"Kill ratio": 0.5
+		"Kill ratio": 0.8
 	},
 	{
-		"Classement": 49,
-		"Player": "Minotor",
-		"ELO": 1066,
-		"Saisons": 1,
-		"Tournois": 2,
-		"Combats": 3,
-		"Kill ratio": 0.5
-	},
-	{
-		"Classement": 49,
-		"Player": "Towxin",
-		"ELO": 1066,
-		"Saisons": 1,
-		"Tournois": 2,
-		"Combats": 3,
-		"Kill ratio": 0.5
-	},
-	{
-		"Classement": 49,
-		"Player": "Frost",
-		"ELO": 1066,
-		"Saisons": 1,
-		"Tournois": 2,
-		"Combats": 3,
-		"Kill ratio": 0.5
-	},
-	{
-		"Classement": 49,
-		"Player": "Galinette",
-		"ELO": 1066,
-		"Saisons": 1,
-		"Tournois": 2,
-		"Combats": 3,
-		"Kill ratio": 0.5
-	},
-	{
-		"Classement": 53,
-		"Player": "Vaurtex",
-		"ELO": 1065,
-		"Saisons": 1,
-		"Tournois": 1,
-		"Combats": 2,
-		"Kill ratio": 1
-	},
-	{
-		"Classement": 53,
-		"Player": "Alex",
-		"ELO": 1065,
-		"Saisons": 1,
-		"Tournois": 1,
-		"Combats": 2,
-		"Kill ratio": 1.5
-	},
-	{
-		"Classement": 53,
-		"Player": "LaChèvre",
-		"ELO": 1065,
-		"Saisons": 1,
-		"Tournois": 1,
-		"Combats": 2,
-		"Kill ratio": 1.5
-	},
-	{
-		"Classement": 53,
-		"Player": "Frostiz",
-		"ELO": 1065,
-		"Saisons": 1,
-		"Tournois": 1,
-		"Combats": 2,
-		"Kill ratio": 1
-	},
-	{
-		"Classement": 53,
-		"Player": "Suédois",
-		"ELO": 1065,
-		"Saisons": 1,
-		"Tournois": 1,
-		"Combats": 2,
-		"Kill ratio": 1
-	},
-	{
-		"Classement": 53,
-		"Player": "Leebibs",
-		"ELO": 1065,
-		"Saisons": 1,
-		"Tournois": 1,
-		"Combats": 2,
-		"Kill ratio": 1
-	},
-	{
-		"Classement": 53,
-		"Player": "ZEmouton",
-		"ELO": 1065,
-		"Saisons": 1,
-		"Tournois": 1,
-		"Combats": 2,
-		"Kill ratio": 1
-	},
-	{
-		"Classement": 53,
-		"Player": "A.M.X.",
-		"ELO": 1065,
-		"Saisons": 1,
-		"Tournois": 1,
-		"Combats": 2,
-		"Kill ratio": 1
-	},
-	{
-		"Classement": 61,
-		"Player": "TJpek",
+		"Classement": 45,
+		"Player": "Cookie",
 		"ELO": 1064,
 		"Saisons": 1,
 		"Tournois": 1,
-		"Combats": 1,
-		"Kill ratio": null
+		"Combats": 4,
+		"Kill ratio": 1
 	},
 	{
-		"Classement": 62,
-		"Player": "Chacal",
-		"ELO": 1061,
-		"Saisons": 1,
-		"Tournois": 6,
-		"Combats": 7,
-		"Kill ratio": 0.25
-	},
-	{
-		"Classement": 63,
-		"Player": "Payano",
-		"ELO": 1060,
+		"Classement": 47,
+		"Player": "Tom",
+		"ELO": 1063,
 		"Saisons": 2,
-		"Tournois": 5,
+		"Tournois": 3,
 		"Combats": 6,
+		"Kill ratio": 0.88
+	},
+	{
+		"Classement": 48,
+		"Player": "Minotor",
+		"ELO": 1045,
+		"Saisons": 1,
+		"Tournois": 2,
+		"Combats": 3,
 		"Kill ratio": 0.5
 	},
 	{
-		"Classement": 64,
+		"Classement": 48,
+		"Player": "LaChèvre",
+		"ELO": 1045,
+		"Saisons": 1,
+		"Tournois": 1,
+		"Combats": 2,
+		"Kill ratio": 1.5
+	},
+	{
+		"Classement": 50,
+		"Player": "A.M.X.",
+		"ELO": 1044,
+		"Saisons": 1,
+		"Tournois": 1,
+		"Combats": 2,
+		"Kill ratio": 1
+	},
+	{
+		"Classement": 51,
 		"Player": "Spadbison",
-		"ELO": 1059,
+		"ELO": 1042,
 		"Saisons": 3,
 		"Tournois": 3,
 		"Combats": 5,
 		"Kill ratio": 0.44
 	},
 	{
+		"Classement": 52,
+		"Player": "TJpek",
+		"ELO": 1039,
+		"Saisons": 1,
+		"Tournois": 1,
+		"Combats": 1,
+		"Kill ratio": null
+	},
+	{
+		"Classement": 53,
+		"Player": "Mako",
+		"ELO": 1038,
+		"Saisons": 3,
+		"Tournois": 3,
+		"Combats": 4,
+		"Kill ratio": 0.5
+	},
+	{
+		"Classement": 53,
+		"Player": "Chacal",
+		"ELO": 1038,
+		"Saisons": 1,
+		"Tournois": 6,
+		"Combats": 7,
+		"Kill ratio": 0.25
+	},
+	{
+		"Classement": 55,
+		"Player": "Vaurtex",
+		"ELO": 1037,
+		"Saisons": 1,
+		"Tournois": 1,
+		"Combats": 2,
+		"Kill ratio": 1
+	},
+	{
+		"Classement": 55,
+		"Player": "Towxin",
+		"ELO": 1037,
+		"Saisons": 1,
+		"Tournois": 2,
+		"Combats": 3,
+		"Kill ratio": 0.5
+	},
+	{
+		"Classement": 55,
+		"Player": "Frost",
+		"ELO": 1037,
+		"Saisons": 1,
+		"Tournois": 2,
+		"Combats": 3,
+		"Kill ratio": 0.5
+	},
+	{
+		"Classement": 55,
+		"Player": "Galinette",
+		"ELO": 1037,
+		"Saisons": 1,
+		"Tournois": 2,
+		"Combats": 3,
+		"Kill ratio": 0.5
+	},
+	{
+		"Classement": 59,
+		"Player": "Alex",
+		"ELO": 1036,
+		"Saisons": 1,
+		"Tournois": 1,
+		"Combats": 2,
+		"Kill ratio": 1.5
+	},
+	{
+		"Classement": 59,
+		"Player": "Frostiz",
+		"ELO": 1036,
+		"Saisons": 1,
+		"Tournois": 1,
+		"Combats": 2,
+		"Kill ratio": 1
+	},
+	{
+		"Classement": 59,
+		"Player": "Suédois",
+		"ELO": 1036,
+		"Saisons": 1,
+		"Tournois": 1,
+		"Combats": 2,
+		"Kill ratio": 1
+	},
+	{
+		"Classement": 59,
+		"Player": "Leebibs",
+		"ELO": 1036,
+		"Saisons": 1,
+		"Tournois": 1,
+		"Combats": 2,
+		"Kill ratio": 1
+	},
+	{
+		"Classement": 59,
+		"Player": "ZEmouton",
+		"ELO": 1036,
+		"Saisons": 1,
+		"Tournois": 1,
+		"Combats": 2,
+		"Kill ratio": 1
+	},
+	{
 		"Classement": 64,
+		"Player": "Payano",
+		"ELO": 1035,
+		"Saisons": 2,
+		"Tournois": 5,
+		"Combats": 6,
+		"Kill ratio": 0.5
+	},
+	{
+		"Classement": 65,
 		"Player": "Nigh",
-		"ELO": 1059,
+		"ELO": 1034,
 		"Saisons": 2,
 		"Tournois": 4,
 		"Combats": 5,
@@ -587,7 +587,7 @@
 	{
 		"Classement": 66,
 		"Player": "Detox",
-		"ELO": 1056,
+		"ELO": 1031,
 		"Saisons": 1,
 		"Tournois": 1,
 		"Combats": 2,
